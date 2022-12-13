@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_luo=self.webpackChunkreact_luo||[]).push([[245],{5871:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var u=t(7294);function a(){return u.createElement("div",{className:"page-notfound"},u.createElement("div",{className:"box"},"404 not found"))}}}]);
