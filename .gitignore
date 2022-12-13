@@ -67,5 +67,4 @@ config.json
 mytest/*
 
 # build
-dist/*
-!dist/.gitkeep
+
