@@ -30,7 +30,7 @@ coverage
 .lock-wscript
 
 # Compiled binary addons (http://nodejs.org/api/addons.html)
-build/Release
+
 
 # Dependency directories
 jspm_packages
@@ -59,7 +59,7 @@ backup
 config.json
 
 # build
-.build
+
 
 # app config
 
